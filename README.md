@@ -1,0 +1,1 @@
+Programa desenvolvido em C#, é um programa que pode ser usado para gerenciar um estacionamento, onde os veículos podem ser adicionados, removidos e listados, e o preço do estacionamento é calculado com base no tempo que um veículo permanece estacionado.
